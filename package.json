@@ -1,6 +1,6 @@
 {
   "name": "angular-gm-trip",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Angular Trip.js wrapper",
   "main": "dist/angular-gm-trip.js",
   "scripts": {
